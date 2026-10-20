@@ -1,0 +1,23 @@
+INVITACIÓN DE VALE — REVISIÓN 20 DE OCTUBRE DE 2026
+
+Abrir index.html con Visual Studio Code y Go Live (Live Server).
+
+CAMBIOS EN ESTA REVISIÓN
+- Texto de presentación: «Mis padres», nombres de Mirta Florentín y Maximiliano Álvarez destacados, frase «tienen el honor de invitarlos a festejar los 15 de su hija».
+- Se mantiene el tamaño de «Vale» sin modificaciones.
+- Fecha debajo de Vale: sombreado y fondo delicado para aumentar legibilidad.
+- Silueta de la homenajeada en el fondo: más tenue.
+- Santa Misa: miércoles 28 de octubre de 2026, parroquia San Pablo Apóstol, 20:00 hs.
+- Catalina Eventos 2: se eliminó la leyenda «dirección a confirmar»; ingreso 22:30 hs y finalización 05:00 hs del día siguiente.
+- Confirmar asistencia: aviso «Confirmá tu asistencia hasta el 18 de noviembre de 2026» (10 días antes de la fiesta del 28/11/2026).
+- Se preservan las animaciones originales, mariposas, destellos, botón de apertura, canciones, WhatsApp, dress code y regalos.
+
+WhatsApp de las acciones de asistencia y canciones: +54 381 664-0146.
+
+
+AJUSTES DE TIPOGRAFÍA Y MISA (REVISIÓN POSTERIOR)
+- «Mis padres», nombres y frase de invitación: familia tipográfica Cormorant Garamond, con nombres destacados y proporciones más armoniosas.
+- Botón «Abrir invitación»: tipografía Allura, la misma cursiva de «Vale», conservando el fondo, posición y funcionamiento del botón.
+- Aviso de confirmación hasta el 18 de noviembre: rosa empolvado más oscuro y letras blancas.
+- Ceremonia: «Con fe y gratitud» / «Santa Misa» / «Acompañame en este momento tan especial» para evitar la repetición de «misa».
+- Todo el resto sin modificaciones: fechas, animaciones, mariposas, destellos, música y enlaces.
