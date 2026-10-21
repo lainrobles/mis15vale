@@ -826,3 +826,32 @@ body::before{opacity:.10!important}
   #mainContent .parents-intro .parent-description{font-size:clamp(1.09rem,4vw,1.23rem)!important;line-height:1.25!important;}
   #mainContent .hero-date{padding:11px 14px;font-size:clamp(.99rem,4.15vw,1.28rem)}
 }
+
+/* Correcciones precisas: 20 octubre - sin cambiar el resto de botones */
+#mainContent .hero-date {
+  opacity:1!important;
+  color:#874d6a!important;
+  background:linear-gradient(135deg,rgba(255,238,247,.98),rgba(247,206,226,.98))!important;
+  border:1px solid #e5aac8!important;
+  box-shadow:0 4px 17px rgba(174,99,142,.17)!important;
+  text-shadow:0 1px 1px rgba(255,255,255,.75)!important;
+}
+/* Aumentar visibilidad de la fotografía de Vale sin modificar su tamaño. */
+body::before {opacity:.27!important;}
+@media (max-width:680px){
+  body::before {opacity:.22!important;}
+  #mainContent .hero-date {padding:10px 15px!important;max-width:95%;}
+}
+
+/* Opciones de regalos | Mantiene los estilos generales de la invitación. */
+#regalos .gift-card{max-width:720px;padding:clamp(24px,5vw,48px);}
+#regalos .gift-intro{max-width:570px;margin:0 auto 25px;line-height:1.75;}
+#regalos .gift-options{max-width:610px;margin:0 auto;text-align:left;}
+#regalos .gift-option{display:flex;gap:17px;align-items:flex-start;padding:19px 5px;border-top:1px solid rgba(178,127,150,.27);}
+#regalos .gift-option-icon{display:flex;flex-shrink:0;justify-content:center;align-items:center;width:39px;height:39px;border-radius:50%;background:#fff1f7;color:#ad7895;font-size:26px;line-height:1;}
+#regalos .gift-option-text{min-width:0;flex:1;}
+#regalos .gift-option h3{margin:0 0 6px;font-family:'Cormorant Garamond',serif;font-size:clamp(1.4rem,3vw,1.65rem);font-weight:600;color:#a45e81;}
+#regalos .gift-option p{margin:0;color:#715b68;line-height:1.6;font-size:.96rem;}
+#regalos .gift-option strong{overflow-wrap:anywhere;color:#594651;}
+#regalos .gift-transfer-button{margin-top:12px;white-space:normal;}
+@media(max-width:480px){#regalos .gift-option{gap:12px;padding:17px 0;}#regalos .gift-option-icon{width:34px;height:34px;font-size:22px;}#regalos .gift-intro{font-size:.97rem;}}

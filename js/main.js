@@ -48,7 +48,7 @@ musicToggle?.addEventListener('click', () => {
   }
 });
 
-const eventDate = new Date('2026-11-28T22:30:00-03:00').getTime();
+const eventDate = new Date('2026-11-28T22:00:00-03:00').getTime();
 
 function setFlipValue(id, value) {
   const element = document.getElementById(id);
